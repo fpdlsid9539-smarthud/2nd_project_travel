@@ -19,9 +19,11 @@
 <br>
 
 ## 기획 배경 및 시장 분석
-<p align="center">
-<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/7b10d072-9e4a-4467-a419-2a07ef108538" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm001.png" alt="키워드언급량">
+  
+</div>
 
 ### 여행 및 여가 트렌드 변화
 
@@ -34,11 +36,11 @@
 <br>
 <br>
 
-<p align="center">
+<div align="center">
 
-  <img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/de3c3d1f-17ff-422a-a83a-cda5d0c85dfa" />
-
-</p>
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm002.png" alt="SNS">
+  
+</div>
 
 ### SNS 정보 소비와 타겟팅 니즈
 
@@ -51,9 +53,11 @@
 <br>
 <br>
 
-<p align="center">
-<img width="718" height="574" alt="Image" src="https://github.com/user-attachments/assets/36ff079e-5cc1-43ac-81a3-b5ed66b0664c" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm003.png" alt="채널별언급량추이">
+  
+</div>
 
 ### 새로운 대안으로서의 "랜덤" 트렌드
 
