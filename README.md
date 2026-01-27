@@ -55,9 +55,11 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm003.png" alt="채널별언급량추이">
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm003.jpg" alt="채널별언급량추이">
   
 </div>
+
+<br>
 
 ### 새로운 대안으로서의 "랜덤" 트렌드
 
@@ -66,27 +68,35 @@
 
 <br>
 
-<p align="center">
-<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/d72d7325-329e-4c9b-b9a4-aeb7c8c5c9b8" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm004.png" alt="결정장애">
+  
+</div>
 
 <br>
 
-<p align="center">
-<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/bed6dd49-2bbb-4985-8b13-c4bd1822b9cc" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm005.png" alt="한계점">
+  
+</div>
 
 <br>
 
-<p align="center">
-<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/84d8fcd5-9708-481e-9e0b-4ae83999b186" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm006.png" alt="차별점">
+  
+</div>
 
 <br>
 
-<p align="center">
-<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/ceb69290-a0c0-49e2-957e-1577d57cdf21" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm007.png" alt="시각화경험">
+  
+</div>
 
 <br>
 
@@ -249,9 +259,11 @@
 
 <br>
 
-<p align="center">
-<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/97af8fe3-9ea8-4c85-8dfe-cd14fc983d88" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm008.png" alt="기대효과">
+  
+</div>
 
 <br>
 
