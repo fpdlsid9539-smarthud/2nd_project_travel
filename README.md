@@ -137,42 +137,43 @@
 
 <br>
 
-## 개발 환경
+## Tech Stack
 
-### Front
+### Frontend
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <br>
 
-### 개발환경
+### Backend
 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-
-<br>
-
-### Back-end
-
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <br>
 
+### API Integration
 
-### 사용 API
-
-<img src="https://img.shields.io/badge/KAKAO LOCAL api-FFCA28?style=for-the-badge&logo=kakao&logoColor=white"><img src="https://img.shields.io/badge/Tourapi-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/KAKAO LOCAL api-FFCA28?style=for-the-badge&logo=kakao&logoColor=white"> <img src="https://img.shields.io/badge/Tourapi-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <br>
 
-### 버전 및 이슈관리
+### Development Environment
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<br>
+
+### Design Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+<br>
+
+
+### Version Control & Collaboration 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br>
-
-### 협업 툴
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-
-
 <br>
 
 ## 프로젝트 구조
