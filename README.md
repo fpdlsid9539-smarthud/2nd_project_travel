@@ -4,13 +4,6 @@
 
 ## 사이트 실행 방법
 
-- Terminal에 희망하는 경로를 설정후, git clone https://github.com/fpdlsid9539-smarthud/2nd_project_travel.git 을 입력하여 파일을 받습니다.
-- .env.example 파일의 이름을 .env로 변경해줍니다.
-- https://developers.kakao.com/docs/latest/ko/tutorial/start 카카오 로컬 API사이트에 접속하여 javascript key를 받습니다.
-- 카카오 로컬 API 도메인 등록란에는 http://localhost:3000 혹은 http://127.0.0.1:3000 추가로 등록해야합니다.
-- https://www.data.go.kr/data/15101578/openapi.do 공공데이터포털에 접속해 일반 인증키를 받습니다.
-- .env파일에 각 api키를 입력해줍니다.
-- server.js와 같은 경로상의 Terminal에 npm i 를 입력하여 node_modules를 설치합니다.
 - node server.js를 입력하여 실행합니다.
 
 
