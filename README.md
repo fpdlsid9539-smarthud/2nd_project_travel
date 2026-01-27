@@ -224,6 +224,14 @@
      │   ├── no-image.png
      │   ├── rogo.png
      │   ├── wishlist.png
+     │   ├── rdm001.png
+     │   ├── rdm002.png
+     │   ├── rdm003.jpg
+     │   ├── rdm004.png
+     │   ├── rdm005.png
+     │   ├── rdm006.png
+     │   ├── rdm007.png
+     │   ├── rdm008.png
      │   └── wishlist2.png
      └── css
          ├── createroot.css
