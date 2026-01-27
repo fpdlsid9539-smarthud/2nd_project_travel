@@ -60,6 +60,30 @@
 
 <br>
 
+<p align="center">
+<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/d72d7325-329e-4c9b-b9a4-aeb7c8c5c9b8" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/bed6dd49-2bbb-4985-8b13-c4bd1822b9cc" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/84d8fcd5-9708-481e-9e0b-4ae83999b186" />
+</p>
+
+<br>
+
+<p align="center">
+<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/ceb69290-a0c0-49e2-957e-1577d57cdf21" />
+</p>
+
+<br>
+
 ## 팀원 구성
 
 <div align="center">
@@ -219,6 +243,11 @@
 
 <br>
 
+<p align="center">
+<img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/97af8fe3-9ea8-4c85-8dfe-cd14fc983d88" />
+</p>
+
+<br>
 
 ## 프로젝트 회고
 
