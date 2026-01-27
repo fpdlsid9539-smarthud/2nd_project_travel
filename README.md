@@ -34,9 +34,11 @@
 <br>
 <br>
 
-<p align="center">
-<img width="718" height="574" alt="Image" src="https://github.com/user-attachments/assets/63255e55-594c-49a9-b299-1aefb29edf17" />
-</p>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm001.png" alt="결정장애">
+  
+</div>
 
 ### SNS 정보 소비와 타겟팅 니즈
 
