@@ -34,11 +34,11 @@
 <br>
 <br>
 
-<div align="center">
+<p align="center">
 
-  <img src="https://raw.githubusercontent.com/fpdlsid9539-smarthud/2nd_project_travel/main/public/IMG/rdm001.png" alt="결정장애">
-  
-</div>
+  <img width="1440" height="810" alt="Image" src="https://github.com/user-attachments/assets/de3c3d1f-17ff-422a-a83a-cda5d0c85dfa" />
+
+</p>
 
 ### SNS 정보 소비와 타겟팅 니즈
 
