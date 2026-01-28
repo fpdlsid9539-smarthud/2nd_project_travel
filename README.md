@@ -5,7 +5,7 @@
 ## 사이트 실행 방법
 
 - node server.js를 입력하여 실행합니다.
-
+- https://2ndprojecttravels.vercel.app/ 샘플 페이지
 <br>
 
 
